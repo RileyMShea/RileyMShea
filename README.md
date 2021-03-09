@@ -1,7 +1,9 @@
 ### Hi there 👋, my name is Riley
 #### I am a fullstack developer
 
-My coding journey started with python/data analytics, shifted to fullstack javascript, and is currently end-to-end machine learning applications/services.
+My coding journey started with python/data analytics, shifted to fullstack javascript, and I now work on creating end-to-end machine learning applications/services.
+
+I am strongest in Python, Typescript, Rust.
 
 Skills: Docker / Linux / AWS / Azure / Mongodb / SQL /  React / JS/TS / HTML / CSS / Python / Rust / C# / REST / GraphQL / ML/AI
 
@@ -13,13 +15,11 @@ Skills: Docker / Linux / AWS / Azure / Mongodb / SQL /  React / JS/TS / HTML / C
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 
-🔭 I’m currently working on a project for RDSC
+🔭 I’m currently working on a quantitative finance project for RDSC
 
 🌱 I’m currently learning the Rust, Spacy, Dask
 
-👯 I’m looking to collaborate on fullstack projects
-
-🤔 I’m looking for help from mentors
+👯 I’m looking to collaborate on fullstack, quantitative, or other data-driven projects
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rileymshea@gmail.com)
